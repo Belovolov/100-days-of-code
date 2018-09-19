@@ -8,3 +8,10 @@
 
 **Link(s) to work**
 1. [Build a Personal Portfolio Webpage](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+### Day 2: September 19, Wednesday
+
+**Today's Progress**: Proceed with portfolio, projects part
+
+**Thoughts** Conveting React to plain HTML/JS is tedious. Makes it easy to understand how React is awesome
+
