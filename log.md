@@ -15,3 +15,9 @@
 
 **Thoughts** Conveting React to plain HTML/JS is tedious. Makes it easy to understand how React is awesome
 
+### Day 3: September 20, Thursday
+
+**Today's Progress**: Oh no! I only coded for work today. At least that was a lot of code..
+
+**Thoughts** Should be more careful tomorrow
+
