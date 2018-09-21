@@ -21,3 +21,8 @@
 
 **Thoughts** Should be more careful tomorrow
 
+### Day 4: September 20, Friday
+
+**Today's Progress**: Was doing typical coding interview tasks and testing it with Jest
+
+**Thoughts** Interesting!
