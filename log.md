@@ -26,3 +26,9 @@
 **Today's Progress**: Was doing typical coding interview tasks and testing it with Jest
 
 **Thoughts** Interesting!
+
+### Day 5: September 21, Saturday
+
+**Today's Progress**: Proceeded with algorithms and data sctructures
+
+**Thoughts**  8 hours or more, didn't even have time to report on th chanlenge timely
