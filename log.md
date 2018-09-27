@@ -32,3 +32,18 @@
 **Today's Progress**: Proceeded with algorithms and data sctructures
 
 **Thoughts**  8 hours or more, didn't even have time to report on th chanlenge timely
+
+### Day 6: September 22, Sunday
+
+**Today's Progress**: Finished with algorithms and data sctructures (binary search trees, linked lists)
+
+**Thoughts**  interesting, makes the brain work, but not sure how practical
+
+### What a blunder, I skipped 4 days. Every of them involved some coding, but not in the form of voluntary practice.. Will move on, I guess that's how the habbit will eventually come
+
+### Day 7: September 27, Sunday
+
+**Today's Progress**: Started implementing GraphQL (Apollo) in honey project
+
+**Thoughts**  good tool
+
