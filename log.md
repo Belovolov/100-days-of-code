@@ -41,9 +41,14 @@
 
 ### What a blunder, I skipped 4 days. Every of them involved some coding, but not in the form of voluntary practice.. Will move on, I guess that's how the habbit will eventually come
 
-### Day 7: September 27, Sunday
+### Day 7: September 27, Thursday
 
 **Today's Progress**: Started implementing GraphQL (Apollo) in honey project
 
 **Thoughts**  good tool
 
+### Day 8: September 28, Friday
+
+**Today's Progress**: Brushing up C# skills implementing creational design patterns
+
+**Thoughts**  
