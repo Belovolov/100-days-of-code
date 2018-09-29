@@ -52,3 +52,9 @@
 **Today's Progress**: Brushing up C# skills implementing creational design patterns
 
 **Thoughts**  
+
+### Day 9: September 29, Saturday
+
+**Today's Progress**: Worked on Markdown preview FCC project
+
+**Thoughts**  Hasslesome to get CodePen running with React..
