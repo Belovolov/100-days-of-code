@@ -80,3 +80,7 @@
 **Today's Progress**: Brushing up my Docker skills
 
 **Thoughts**  All right, that's not coding, but hell, that's relevant
+
+### Day 12: October 02, Tuesday
+
+**Today's Progress**: Proceed with my Docker and CI skills
