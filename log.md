@@ -84,3 +84,8 @@
 ### Day 12: October 02, Tuesday
 
 **Today's Progress**: Proceed with my Docker and CI skills
+
+
+### Day 13: October 03, Wednesday
+
+**Today's Progress**: Learned how to deploy on AWS with Travis CI and Github
