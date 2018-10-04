@@ -89,3 +89,8 @@
 ### Day 13: October 03, Wednesday
 
 **Today's Progress**: Learned how to deploy on AWS with Travis CI and Github
+
+
+### Day 14: October 04, Thursday
+
+**Today's Progress**: Learned how to deploy multi-containered application with Travis CI
