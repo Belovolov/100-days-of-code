@@ -94,3 +94,20 @@
 ### Day 14: October 04, Thursday
 
 **Today's Progress**: Learned how to deploy multi-containered application with Travis CI
+
+### Day 15: October 05, Friday
+
+**Today's Progress**: Practiced with ASP.NET MVC
+
+### Day 16: October 06, Saturday
+**Today's Progress**: Practiced with ASP.NET MVC
+
+### Day 17: October 07, Sunday
+**Today's Progress**: Practiced with ASP.NET MVC
+
+### Day 18: October 08, Monday
+**Today's Progress**: Practiced with ASP.NET MVC
+
+### Day 19: October 09, Tuesday
+**Today's Progress**: Tried Next.js, wrote a simple app based on tutorial
+**Thoughts**  Man, seems like this chalenge doesn't quite work for me. Hectic period in life right now. Too much coding which is not quite 'voluntary'. Yet, chalenge is chalenge, will try straighten it out
