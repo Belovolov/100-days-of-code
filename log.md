@@ -111,3 +111,12 @@
 ### Day 19: October 09, Tuesday
 **Today's Progress**: Tried Next.js, wrote a simple app based on tutorial
 **Thoughts**  Man, seems like this chalenge doesn't quite work for me. Hectic period in life right now. Too much coding which is not quite 'voluntary'. Yet, chalenge is chalenge, will try straighten it out
+
+### Day 20: October 11, Thursay
+**Today's Progress**: Proceed with incorporating GraphQL in honey project. Covered Flowers and Multimedia entities
+
+### Day 21: October 12, Friday
+**Today's Progress**: Implemented tax calcalutor with progressive scale using Builder design pattern and TDD
+
+### Day 22: October 14, Sunday
+**Today's Progress**: Refreshing SQL querying
